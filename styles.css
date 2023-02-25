@@ -7,11 +7,6 @@ body {
 }
 
 
-/* h2 {
-  text-align: center;
-  color: yellow;
-  margin-top: 70px;
-} */
 
 .app-body {
   text-align: center;
@@ -78,9 +73,6 @@ h2, h3 {
 
 ul {
   display: flex;
-  /* justify-content: center;
-  align-items: center;
-  height: 100vh; */
   margin: 0;
   padding: 0; 
 }
